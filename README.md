@@ -1,1 +1,1 @@
-# STUDENT-RECORD-MANAGEMENT
+The Student Record Management System is a C-based mini project that manages student details using a Singly Linked List and multiple source files. The system allows users to add, delete, modify, display, sort, and save student records through a menu-driven interface.
